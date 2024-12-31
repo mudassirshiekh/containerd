@@ -35,6 +35,7 @@ and create messaging and educational content; and help with social media, commun
   - If you are interested in starting with a smaller/beginner-level issue, look for issues with an `exp/beginner` tag, for example [containerd/containerd beginner issues.](https://github.com/containerd/containerd/issues?q=is%3Aissue+is%3Aopen+label%3Aexp%2Fbeginner)
 
 ## Getting Started
+## By Mudassir Alam
 
 See our documentation on [containerd.io](https://containerd.io):
 * [for ops and admins](docs/ops.md)
